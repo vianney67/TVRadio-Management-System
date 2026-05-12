@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/ChannelPanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/EmployeePanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/AdvertisementDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/FinancialReportPanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/FinancialReport.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/ChannelDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/EmployeeDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Program.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/ExpenseDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Schedule.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Employee.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/ProgramScheduleDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/ProgramPanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/User.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/LoginPage.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/AdminDashboard.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/EquipmentDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/ProgramDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Advertisement.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/ExpensePanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/HomePanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/ProgramSchedulePanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Channel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Equipment.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/ProgramAssignmentPanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/view/AdvertisementPanel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/Expense.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/FinancialReportDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/dao/DBConnection.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadioManagementSystem/src/model/ProgramSchedule.java</file>
+        </group>
+    </open-files>
+</project-private>

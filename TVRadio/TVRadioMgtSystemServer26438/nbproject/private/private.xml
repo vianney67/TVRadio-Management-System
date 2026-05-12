@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/model/Channel.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/service/UserService.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/model/Session.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/service/util/ActiveMQNotificationService.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/dao/AdvertisementDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/service/TVRadioServiceImpl.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/model/ProgramSchedule.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/controller/TVRadioServer.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/service/TVRadioService.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/service/util/SessionManager.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/TVRadio/TVRadioMgtSystemServer26438/src/service/util/NotificationService.java</file>
+        </group>
+    </open-files>
+</project-private>
